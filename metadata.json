@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Recruitment and Candidate Matching System",
+  "description": "AI-Powered Multi-Source Candidate Profiling, Skill Analysis, ATS Scoring, and Explainable Job Matching System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
